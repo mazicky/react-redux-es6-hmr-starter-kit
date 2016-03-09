@@ -8,5 +8,5 @@ Getting Started
 $ npm install
 $ npm start      # development
 $ npm run build  # dist biuld
-# npm run lint   # linting
+$ npm run lint   # linting
 ```
