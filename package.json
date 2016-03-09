@@ -10,7 +10,7 @@
     "start": "node devServer.js",
     "lint": "eslint src"
   },
-  "author": "",
+  "author": "mazicky",
   "license": "ISC",
   "dependencies": {
     "react": "^0.14.7",
