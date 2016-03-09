@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-starter",
+  "name": "react-redux-es6-hmr-starter-kit",
   "version": "1.0.0",
   "description": "A Minimal React-Redux Starter Kit with ES6 environment and Hot Module Replacement",
   "main": "index.js",
