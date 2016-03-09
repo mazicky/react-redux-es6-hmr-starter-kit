@@ -1,7 +1,7 @@
 {
   "name": "react-redux-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Minimal React-Redux Starter Kit with ES6 environment and Hot Module Replacement",
   "main": "index.js",
   "scripts": {
     "clean": "rimraf dist",
