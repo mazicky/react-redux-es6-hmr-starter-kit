@@ -7,6 +7,7 @@ Getting Started
 ```shell
 $ npm install
 $ npm start      # development
-$ npm run build  # dist biuld
+$ npm run build  # dist build
 $ npm run lint   # linting
+$ npm test       # testing
 ```
