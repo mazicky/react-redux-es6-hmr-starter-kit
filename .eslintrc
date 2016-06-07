@@ -6,6 +6,7 @@
   globals: {
   },
   env: {
+    mocha: true
   },
   rules: {
     react/jsx-uses-react: 1,
